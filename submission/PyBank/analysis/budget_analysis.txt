@@ -1,0 +1,5 @@
+total_months: 86
+total_net: 22,564,198
+average_net_change: -8,311.11
+greatest_positive_change: 1,862,002
+greatest_negative_change: -1,825,558

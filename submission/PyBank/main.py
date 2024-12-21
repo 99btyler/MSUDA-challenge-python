@@ -12,7 +12,7 @@ total_net = 0
 net_changes = []
 previous_net = -1
 
-# getting data
+# data
 with open(file_read, "r") as budget_data:
 	
 	csv_reader = csv.reader(budget_data)

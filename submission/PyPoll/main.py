@@ -11,7 +11,7 @@ total_votes = 0
 candidates = {}
 winner = None
 
-# getting data
+# data
 with open(file_read, "r") as election_data:
     
     csv_reader = csv.reader(election_data)

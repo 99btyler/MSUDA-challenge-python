@@ -1,8 +1,7 @@
 import csv
-import os
 
 # paths
-file_read = "election_data.csv"
+file_read = "../../data/election_data.csv"
 file_write = "election_analysis.txt"
 
 # variables

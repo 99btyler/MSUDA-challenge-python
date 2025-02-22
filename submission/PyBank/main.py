@@ -2,8 +2,8 @@ import csv
 import os
 
 # paths
-file_read = os.path.join("resources", "budget_data.csv")
-file_write = os.path.join("analysis", "budget_analysis.txt")
+file_read = "budget_data.csv"
+file_write = "budget_analysis.txt"
 
 # variables
 total_months = 0

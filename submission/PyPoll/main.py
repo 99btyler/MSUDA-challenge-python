@@ -2,8 +2,8 @@ import csv
 import os
 
 # paths
-file_read = os.path.join("resources", "election_data.csv")
-file_write = os.path.join("analysis", "election_analysis.txt")
+file_read = "election_data.csv"
+file_write = "election_analysis.txt"
 
 # variables
 total_votes = 0
